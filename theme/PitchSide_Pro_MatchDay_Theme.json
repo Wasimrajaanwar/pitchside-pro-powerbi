@@ -1,0 +1,64 @@
+{
+  "name": "PitchSide Pro - Match Day",
+  "dataColors": [
+    "#1E5631",
+    "#3A6EA5",
+    "#D9A441",
+    "#8893A0",
+    "#7B3F3F",
+    "#2E8B8B",
+    "#5C4A72",
+    "#4F6F52"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B2430",
+  "tableAccent": "#1E5631",
+  "good": "#1E5631",
+  "neutral": "#D9A441",
+  "bad": "#C0392B",
+  "maximum": "#1E5631",
+  "center": "#D9A441",
+  "minimum": "#F2F2F2",
+  "null": "#8893A0",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#1B2430"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#1B2430"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#1B2430"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1E5631"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E5E7EB" } },
+            "radius": 4
+          }
+        ]
+      }
+    }
+  }
+}
