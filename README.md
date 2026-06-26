@@ -191,7 +191,7 @@ The judging criteria covers analytical depth, visual design, storytelling, and t
 BI & Data Analytics Professional | 10+ years experience  
 Microsoft Power BI Data Analyst Certified  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/wasimraja/)
 
 ---
 
